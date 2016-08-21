@@ -20,4 +20,4 @@ Loss
 
 For a group of policy, at a point of time, some claims are filed, the loss already paid out so far is called paid loss; the estimated 
 remaining loss have to be paid on those reported claims is called case reserve; as you can see, paid losses and case reserve are defined on 
-reported claims
+reported claims, i.e for known claims, how much i've paid, how much i need to cover the ultimate settlement for these claims. At this
