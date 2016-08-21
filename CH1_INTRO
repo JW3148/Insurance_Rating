@@ -16,4 +16,8 @@ Loss
 -Reported Losses(or case incurred loss)= Paid Losses + CaseReserve
 -Note that reported loss are for known claim, i.e. reported
 -Ultimate loss: the amount of money required to settle all claims for a defined group of policy
--
+-Estimated Ultimate Losses = Reported Losses(known claims) + IBNR reserve(not reported) + IBNER Reserve(develpment on know claims)
+
+For a group of policy, at a point of time, some claims are filed, the loss already paid out so far is called paid loss; the estimated 
+remaining loss have to be paid on those reported claims is called case reserve; as you can see, paid losses and case reserve are defined on 
+reported claims
