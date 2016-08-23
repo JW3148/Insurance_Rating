@@ -1,0 +1,66 @@
+Typical Rating Variables
+-Personal Auto: Driver Age, Gender, Model Year, Accident history
+-Homeowner: Amount of insurance, Age of home, Construction Type
+-Workers Compensatio: Occupation Class Code
+-Mdeical malpractice: Specialty,territory, limit of liability
+-Commercial Auto: Driver Class, Territory, Limit of liability
+
+
+Rating: base rate + variable ajustment
+
+Homeowners rating manual example
+-Base Rates: the exposure base is one home for one year.
+-all perils combined coverage base rate =500$
+-Rating and underwriting Characteristics(AOI, Territory, fire protection class, construction type...)
+-AOI: According to the example, the base rate corresponds to a home with AOI of 200000$, which consequently has an AOI rate ralativity of 1
+-Territory
+-protection level, construction type
+-underwriting tier
+-deductible
+-Miscellaneous Credit: e.g. new home discount, 5-year claims-free discount, multi-policy discount
+-Additional optional coverage
+-policy fee
+
+AOI(Amount of insurance)
+- the amount of coverage purchased to cover damage
+- the maximum amount the insurer expects to pay
+
+Additional Optional Coverage
+- e.g. to include coveage for teh liability of operating a daycare in the home
+- e.g. to extend the perils covered for jewelry, watches, and furs losses
+
+Inside limits
+- it is common for the policy to limit the amount of coverage provided for certain types of losses, e.g. jewelry, cash, electronics
+these are refer to as inside limits
+
+
+Medical Malpractice rating manual example
+- Base Rates: the exposure rates is a medical professional insured for one year.
+- Base Rate dependends whether a professional is employed or self-employed(Higher)
+- Specialty Factor, e.g. Obstetrics vs. family practice
+- Part-time status
+- Territory
+- Claims-free discount
+- Schedule Rating(e.g. continuing eduction(credit), procedure(debit if practice in high risk exposure), workplace setting(debit if in 
+high risk workspace)
+- Limit factor, usually offers different per claim and annual aggreagate limits
+- deductible
+- Claim-Make factor
+- Group credit
+- minimum premium
+
+
+Important! Check if the ALAE is part of the limit, ALAE can be huge(e.g. defense costs)
+
+Claims-made coverage vs. Occurence coverage
+- the coverage trigger is the data the claim is reported, rather than the data the event occurs
+- for example, a event occurs in the policy period but reported after the period will not the be covered
+- it is the time when a event is reported matters, 
+- should be cheaper than occurence coverage
+
+
+U.S. workers compensation pating manual example
+- NCCI provides loss cost estimiate(loss cost ratio)
+- Exposure unit: $100s of payroll
+- base rate depending work class
+- base rate: idenfiy payrolls amount in each class, calulate rate for each class and sum them up to form the base rate for this company
