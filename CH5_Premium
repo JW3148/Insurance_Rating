@@ -1,0 +1,48 @@
+RateMaking Process
+-estimation of premium for a future policy period
+-begins with historical premium
+-applies with a series of adjustments
+
+Overall rate level indication
+-to evaluate whether the rates underlying the company's premium adequately cover expected losses, 
+ expenses and target underwriting profit
+-two general approaches
+-Pure premium approach
+-Loss ratio approach(Require the estimation of premium to be collected during the future time period)
+
+Premium Aggregation 
+-method 1: calendar year/accident year
+-method 2: policy year
+
+Policy year: if you have a year, you focus on the policies written in that year, it is DEVELOPING[Usually you will see AS OF]
+Calandar year: if you have a year, you are focusing on the money accrued on that time inserval, it is STATIC
+
+Written/Earned/In-Force
+
+In-Force premium
+-a snapshot
+-sum of FULL TERM preimum of all effective policy at a certain point of time
+
+Good example to tell the difference of calandar year and policy year!!
+Why written premium is different for policy year and calandar year?
+-consider a cancellation
+-Calandar year: may booked to two canlandar year
+-policy year: will be book to that year
+
+What is the difference between earned premium and written premium for policy year?
+-both are not closed at the end of period
+
+
+Adjustment of premium
+-Current rate level adjustment(on level): Extension of exposures vs. Parallelogram method
+-Development to Ultimate(premium trend): One-step trending vs. two-step trending
+
+Extension of Exposures
+-rerate every historical policy based on today's manual(rating level)
+
+Parallelogram Method
+-adjust the aggregated historical premium by an average factor to put the premium on-level
+-1.divide policy into levels by rate change, and calculate a cummulative rate level index[a stat to reflect the relative rate level between groups)
+-2.for a particuar calandar year, calculate the weight of earned premium contributed by each rate level group
+-3.for that calandar year, calculate averge rate level index
+-4.on level factor for that period=current cumulative rate level index/average rate level index for historical period
