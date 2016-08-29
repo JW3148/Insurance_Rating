@@ -1,0 +1,20 @@
+Exposure(it is a unit which used to measure risk, like km is used to measure distance, F is used measure temperature)
+- basic unit that measures a policy's exposure to loss
+- serve as the basis for the calculation of premium
+- base rate is typically expressed as rate per exposure(like Gas, which are priced per Gallon, 2$/Gallon)
+
+Premium=base rate X No. of exposure X (adjustmetnt by rating variables and fees)
+Gas fill cost at a station= rate($/gallon) X No. of gallon you fill
+
+Good Exposure base
+-should be directly proportion to expection loss
+-should be practical
+-should consider pre-existing base in the industry(think about the fact that you may difficult to use km to replace mile in US, because
+people are getting used to miles and it has become a standard
+
+Directly proportion to expection loss
+-ideally, a policy with two exposure should expect twice the loss compared to a similar policy with only one exposure
+-The factor with the most direct relationship to the losses should be selected as the exposure base
+-for example, a home insured for two years should expect twice the loss compared to same home insured for one year, other variable fixed
+-for example, a home valued at 200000 has a bigger expect loss than one valued at 100000, but may not be as high as 2 times
+-in this case, we can say home year is a better base than home value
